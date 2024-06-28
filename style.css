@@ -1,0 +1,14 @@
+body{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+
+}
+div{
+    margin:30px;
+}
+button{
+    margin:10px;
+    border-radius: 15px;
+    background-color: rgb(131, 170, 225);
+    border: none;padding: 10px 20px;
+}
